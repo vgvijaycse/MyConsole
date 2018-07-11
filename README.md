@@ -29,5 +29,6 @@ MYSQL ( Database )
 
 Testing Phase - Internal Use only
 We prepared the My Console for internal purpose with frameworks and database connections to ensure the POC’s are saved correctly and shared without any issues to the user
+
 Final Phase - Internal & External Use
 To make the My Console site available for internal and external users as a forum to end their search for POC’s
